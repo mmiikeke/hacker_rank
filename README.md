@@ -6,3 +6,4 @@
 |Implementation|Medium|[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)|30|[Organizing Containers of Balls.py](https://github.com/mmiikeke/hacker_rank/blob/main/python/Organizing%20Containers%20of%20Balls.py)|
 |Implementation|Medium|[Encryption](https://www.hackerrank.com/challenges/encryption/problem)|30|[Encryption.py](https://github.com/mmiikeke/hacker_rank/blob/main/python/Encryption.py)|
 |Implementation|Medium|[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)|35|[Bigger is Greater.py](https://github.com/mmiikeke/hacker_rank/blob/main/python/Bigger%20is%20Greater.py)|
+|Implementation|Medium|[The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)|25|[The Time in Words.py](https://github.com/mmiikeke/hacker_rank/blob/main/python/The%20Time%20in%20Words.py)|

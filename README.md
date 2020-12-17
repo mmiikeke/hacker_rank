@@ -8,3 +8,4 @@
 |Implementation|Medium|[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)|35|[Bigger is Greater.py](https://github.com/mmiikeke/hacker_rank/blob/main/python/Bigger%20is%20Greater.py)|
 |Implementation|Medium|[The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)|25|[The Time in Words.py](https://github.com/mmiikeke/hacker_rank/blob/main/python/The%20Time%20in%20Words.py)|
 |Implementation|Medium|[The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem)|30|[The Grid Search.py](https://github.com/mmiikeke/hacker_rank/blob/main/python/The%20Grid%20Search.py)|
+|Implementation|Advanced|[Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort/problem)|23.68/50|[Insertion Sort Advanced Analysis.py](https://github.com/mmiikeke/hacker_rank/blob/main/python/Insertion%20Sort%20Advanced%20Analysis.py)|

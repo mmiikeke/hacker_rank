@@ -12,4 +12,5 @@
 |Implementation|Medium|[Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem)|40|[Absolute Permutation.py](https://github.com/mmiikeke/hacker_rank/blob/main/python/Absolute%20Permutation.py)|
 |Implementation|Medium|[The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man/problem)|40|[The Bomberman Game.py](https://github.com/mmiikeke/hacker_rank/blob/main/python/The%20Bomberman%20Game.py)|
 |Implementation|Medium|[Larry's Array](https://www.hackerrank.com/challenges/larrys-array/problem)|40|[Larry's Array.py](https://github.com/mmiikeke/hacker_rank/blob/main/python/Larry's%20Array.py)|
+|Implementation|Medium|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|10|[Birthday Cake Candles.py](https://github.com/mmiikeke/hacker_rank/blob/main/python/Birthday%20Cake%20Candles.py)|
 

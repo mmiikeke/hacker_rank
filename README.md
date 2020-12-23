@@ -2,7 +2,8 @@
 
 | Subdomain | Difficulty | Challenge | Points | Solution |
 |:---------:|:----------:|:---------:|:---------:|:--------:|
-|Implementation|EASY|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|10|[Birthday Cake Candles.py](https://github.com/mmiikeke/hacker_rank/blob/main/python/Birthday%20Cake%20Candles.py)|
+|Implementation|Easy|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|10|[Birthday Cake Candles.py](https://github.com/mmiikeke/hacker_rank/blob/main/python/Birthday%20Cake%20Candles.py)|
+|Implementation|Medium|[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem)|20|[Non-Divisible Subset.py](https://github.com/mmiikeke/hacker_rank/blob/main/python/Non-Divisible%20Subset.py)|
 |Implementation|Medium|[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)|30|[Queen's Attack II.py](https://github.com/mmiikeke/hacker_rank/blob/main/python/Queen's%20Attack%20II.py)|
 |Implementation|Medium|[Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)|30|[Organizing Containers of Balls.py](https://github.com/mmiikeke/hacker_rank/blob/main/python/Organizing%20Containers%20of%20Balls.py)|
 |Implementation|Medium|[Encryption](https://www.hackerrank.com/challenges/encryption/problem)|30|[Encryption.py](https://github.com/mmiikeke/hacker_rank/blob/main/python/Encryption.py)|
